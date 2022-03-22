@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#h(5#ltw3nnau5&ee*jxkib0hhs5ek6uxx-ha8y1mn5+#r&d(1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*', 'https://02ca-2001-818-db90-4d00-cb3-167-4fe2-8427.ngrok.io']
+ALLOWED_HOSTS = ['*', 'https://pyvideochatapp.herokuapp.com/']
 
 
 # Application definition
